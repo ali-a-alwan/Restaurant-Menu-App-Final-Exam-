@@ -9,10 +9,15 @@ const OrderScreen = ({ route }) => {
   };
 
   const renderOrderItem = ({ item }) => (
-    <View style={styles.item}>
-      <Text>{item.title} x {item.quantity}</Text>
-      <Text>${(item.price * item.quantity).toFixed(2)}</Text>
-    </View>
+    //Complete RenderOrderItem function
+	
+	
+	
+	
+	
+	
+	
+	
   );
 
   return (
